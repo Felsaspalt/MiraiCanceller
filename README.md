@@ -1,1 +1,4 @@
-# folai
+
+pip install
+
+exec
