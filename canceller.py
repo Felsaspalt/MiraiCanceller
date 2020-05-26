@@ -2,7 +2,7 @@
 from linepy import *
 import time
 
-c1 = LINE('felsaspalt@gmail.com','77437743fz',appName="IOSIPAD\t9.15.1\tIOSIPAD\t13.2.2")
+c1 = LINE('mail','pass',appName="IOSIPAD\t9.15.1\tIOSIPAD\t13.2.2")
 oepoll = OEPoll(c1)
 
 c1.log("Auth Token : " + str(c1.authToken))
